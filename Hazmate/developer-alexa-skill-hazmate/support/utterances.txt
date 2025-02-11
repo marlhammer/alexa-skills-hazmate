@@ -1,0 +1,10 @@
+LookupCodeIntent what is {code}
+LookupCodeIntent what is code {code}
+LookupCodeIntent what does {code} mean
+LookupCodeIntent what does code {code} mean
+LookupCodeIntent lookup {code}
+LookupCodeIntent lookup code {code}
+LookupCodeIntent tell me what {code} is
+LookupCodeIntent tell me what code {code} is
+LookupCodeIntent tell me what {code} means
+LookupCodeIntent tell me what code {code} means
